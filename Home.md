@@ -44,15 +44,19 @@ Carlos' Android Phone
 3. Export the code to Carlos' phone
 
 ![Screenshot 2024-03-05 121151](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371043/37b9fa8f-ceab-4cee-87c1-b3fa0babbd90)
-_Figure 3: App designer layout for part 1_
+_Figure 3: App designer layout for Part 1_
 
 ![blocks](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371043/eecc9c7f-635e-4ee4-81de-25efd3fb487d)  
-_Figure 4: Block code for part 1_  
+_Figure 4: Block code for Part 1_  
 **Part 2**
+
 1. In the MIT App Inventor Designer add the following components shown in Figure 5
 2. Switch to the Block viewer and build the block code shown in Figure 6
-3. Export the code to Carlos' phone
-
+3. Export the code to Carlos' phone  
+![image](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371043/7281bd92-46b1-49d5-ab23-3326599977c4)
+_Figure 5: App designer layout for Part 2_  
+![blocks (1)](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371043/54337340-5f79-41f1-9b1f-03371d2520da)  
+_Figure 6: Block code for Part 2_  
 
 # Test Results
 What are your results?
