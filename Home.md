@@ -33,3 +33,7 @@ Did you make any design decisions that had an impact on the results? How did the
 # Conclusion
 
 #Refrences 
+Figure 1  
+JOEL_E_B. “Sparkfun Inventor’s Kit Experiment Guide - v4.0.” SparkFun Inventor’s Kit Experiment Guide - v4.0 - SparkFun Learn, learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-5c-autonomous-robot. Accessed 5 Mar. 2024. 
+Figure 2
+“Setting up Bluetooth HC-05 with Arduino - Tutorials.” Explore Embedded, exploreembedded.com/wiki/Setting_up_Bluetooth_HC-05_with_Arduino. Accessed 5 Mar. 2024. 
