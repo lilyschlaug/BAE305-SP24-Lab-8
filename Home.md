@@ -59,7 +59,9 @@ _Figure 5: App designer layout for Part 2_
 _Figure 6: Block code for Part 2_  
 
 # Test Results    
-What are your results?
+**Part 1 - Assemble and test your robot**    
+The result of part 1 is the built robot. We use the code from lab 6 to ensure that robot is able to move forward, backward, left and right at various speeds. 
+
 # Discussion    
 Part 1 - Assemble and test your robot    
 Discussion Questions: In Lab 6 we found out what was the minimum speed that will move the motors. What is the minimum speed that will move the complete car?    
