@@ -60,7 +60,14 @@ _Figure 6: Block code for Part 2_
 
 # Test Results    
 **Part 1 - Assemble and test your robot**    
-The result of part 1 is the built robot. We use the code from lab 6 to ensure that robot is able to move forward, backward, left and right at various speeds. 
+The result of part 1 is the built robot. We use the code from lab 6 to ensure that robot is able to move forward, backward, left and right at various speeds.    
+![image](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371115/cf0a69de-1d84-49e4-ba41-19b466ec758f)
+
+**Part 2 - Develop the App** 
+The result of part 2 is to be able to control the robot via the created app. The app should have commands to connect serial communications, move desired direction, and stop the robot's movement. 
+
+**Part 3 - Wireless remote** 
+Part 3 takes the app from part 2 and develops it for wireless bluetooth communication. It also requires editing the ardunio IDE code to receive the communication from the correct ports. 
 
 # Discussion    
 Part 1 - Assemble and test your robot    
