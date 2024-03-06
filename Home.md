@@ -67,7 +67,7 @@ The result of part 1 is the built robot. We use the code from lab 6 to ensure th
 The result of part 2 is to be able to control the robot via the created app. The app should have commands to connect serial communications, move desired direction, and stop the robot's movement. 
 
 **Part 3 - Wireless remote** 
-Part 3 takes the app from part 2 and develops it for wireless bluetooth communication. It also requires editing the ardunio IDE code to receive the communication from the correct ports. 
+Part 3 takes the app from part 2 and develops it for wireless bluetooth communication. It also requires editing the ardunio IDE code to receive the communication from the correct ports. The final result should move the robot through bluetooth communication from the app.    
 
 # Discussion    
 Part 1 - Assemble and test your robot    
@@ -75,6 +75,7 @@ Discussion Questions: In Lab 6 we found out what was the minimum speed that will
 - The minimum speed to move the robot in this lab was 50. This is higher than in lab 6 because of the increased weight that the motors are required to move.    
 
 # Conclusion
+To conclude, this lab's purpose was to understand how we can create a simple app to communicate instructions to a robot. For this lab, we built a robot and aimed to provide it with instructions for movement through a few different methods. First, we verified that the robot moved based on the Arduino IDE code from lab 6. Next, we created an app through MIT App Inventor. This allowed us to build a simple app using block commands and upload it to a phone. This app provided the desired direction of movement and a stop command. Finally, we made changes to the circuitry and app to allow for bluetooth communication through commands in the app. Commands for the robot remained the same, but the means of communication to the robot was wireless. 
 
 # Refrences 
 Figure 1  
