@@ -3,7 +3,7 @@
 
 # By: Lily Schlaug and Noah Lane  
 # Summary
-The goal of this lab was to serve as an introduction to block coding and use it to communicate with the Arduino. This was done using MIT App Inventor program. Once the app was designed.
+The goal of this lab was to serve as an introduction to block coding and use it to communicate with the Arduino. A robot was built by using materials in the Sparkfun Inventor's kit. Some code from a previous lab was reused to program movements of the motors. Our app was developed using MIT App Inventor program. Once the app was designed, desired instructions were sent to the robot through the app. 
 
 # Materials  
 1 x Computer running Arduino IDE  
@@ -58,10 +58,13 @@ _Figure 5: App designer layout for Part 2_
 ![blocks (1)](https://github.com/npla225/BAE305-SP24-Lab8/assets/156371043/54337340-5f79-41f1-9b1f-03371d2520da)  
 _Figure 6: Block code for Part 2_  
 
-# Test Results
+# Test Results    
 What are your results?
-# Discussion
-Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
+# Discussion    
+Part 1 - Assemble and test your robot    
+Discussion Questions: In Lab 6 we found out what was the minimum speed that will move the motors. What is the minimum speed that will move the complete car?    
+- The minimum speed to move the robot in this lab was 50. This is higher than in lab 6 because of the increased weight that the motors are required to move.    
+
 # Conclusion
 
 # Refrences 
