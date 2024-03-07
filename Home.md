@@ -78,7 +78,7 @@ Discussion Questions: In Lab 6 we found out what was the minimum speed that will
 To conclude, this lab's purpose was to understand how we can create a simple app to communicate instructions to a robot. For this lab, we built a robot and aimed to provide it with instructions for movement through a few different methods. First, we verified that the robot moved based on the Arduino IDE code from lab 6. Next, we created an app through MIT App Inventor. This allowed us to build a simple app using block commands and upload it to a phone. This app provided the desired direction of movement and a stop command. Finally, we made changes to the circuitry and app to allow for bluetooth communication through commands in the app. Commands for the robot remained the same, but the means of communication to the robot was wireless. 
 
 # Refrences 
-Figure 1  
+**Figure 1 ** 
 JOEL_E_B. “Sparkfun Inventor’s Kit Experiment Guide - v4.0.” SparkFun Inventor’s Kit Experiment Guide - v4.0 - SparkFun Learn, learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-5c-autonomous-robot. Accessed 5 Mar. 2024.  
-Figure 2
+**Figure 2**  
 “Setting up Bluetooth HC-05 with Arduino - Tutorials.” Explore Embedded, exploreembedded.com/wiki/Setting_up_Bluetooth_HC-05_with_Arduino. Accessed 5 Mar. 2024. 
